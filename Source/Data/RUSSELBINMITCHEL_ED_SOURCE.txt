@@ -1,0 +1,8 @@
+ED_06:
+SUMBER:
+https://2.bp.blogspot.com/-_o6wM7J0ICY/W4tcTHsP3bI/AAAAAAAAAns/BHzkmxaJqqAZRZwV8fUIaMt9Qsc7CyX4wCLcBGAs/s1600/Screenshot_58.png
+
+ED_07: 
+SUMBER:
+https://www.kaggle.com/datasets/jonathanrjpereira/rice-disease
+https://www.kaggle.com/datasets/badhon7432/paddyleafdiseaseuci

@@ -1,0 +1,4 @@
+ED_07: 
+https://drive.google.com/file/d/1a5DYiBnzeNRdCJ5dmuVbEvI3bcWdXS-D/view?usp=sharing
+
+Berisi dataset yang digunakan model Deep Learning untuk Klasifikasi Penyakit Padi.
